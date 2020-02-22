@@ -1,2 +1,2 @@
 # Neural-Networks
-Prediction using neural network model
+Implementation of math behind shallow neural network in MATLAB
